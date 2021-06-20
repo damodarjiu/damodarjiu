@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="damodarjiu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="damodarjiu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 ### Languages and Tools:
 [<img align="left" alt="Java" width="45px" src="https://www.pikpng.com/pngl/m/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" />]
